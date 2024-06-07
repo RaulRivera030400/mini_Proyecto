@@ -1,0 +1,10 @@
+numpy
+Pillow
+flake8
+opencv-python
+PyShapes
+fastapi
+uvicorn[standard]
+python-multipart
+gunicorn
+#OCR_Raul
